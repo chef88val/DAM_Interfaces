@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item1"
+        android:title="@string/btn1_top_menu"/>
+    <item
+        android:id="@+id/item2"
+        android:title="@string/btn2_top_menu"/>
+    <item
+        android:id="@+id/item3"
+        android:title="@string/btn3_top_menu">
+        <menu>
+            <item
+                android:id="@+id/item3_1"
+                android:title="@string/btn3_1_top_menu"/>
+            <item
+                android:id="@+id/item3_2"
+                android:title="@string/btn3_2_top_menu"/>
+            <item
+                android:id="@+id/item3_3"
+                android:title="@string/btn3_3_top_menu"/>
+            <item
+                android:id="@+id/item3_4"
+                android:title="@string/btn3_4_top_menu"/>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/item4"
+        android:title="@string/btn4_top_menu"/>
+    <item
+        android:id="@+id/item5"
+        android:title="@string/btn5_top_menu"/>
+    <item
+        android:id="@+id/item6"
+        android:title="@string/btn6_top_menu"/>
+
+
+
+</menu>

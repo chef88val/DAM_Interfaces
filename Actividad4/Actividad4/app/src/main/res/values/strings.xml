@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Actividad4</string>
+    <string name="btn1_top_menu">Boton 1</string>
+    <string name="btn2_top_menu">Boton 2</string>
+    <string name="btn3_top_menu">Boton 3</string>
+    <string name="btn3_1_top_menu">Boton 3_1</string>
+    <string name="btn3_2_top_menu">Boton 3_2</string>
+    <string name="btn3_3_top_menu">Boton 3_3</string>
+    <string name="btn3_4_top_menu">Boton 3_4</string>
+    <string name="btn4_top_menu">Boton 4</string>
+    <string name="btn5_top_menu">Boton 5</string>
+    <string name="btn6_top_menu">Boton 6</string>
+
+</resources>
