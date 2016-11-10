@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Actividad 5</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btCtxMenu1">Botón 1</string>
+    <string name="btCtxMenu2">Botón 2</string>
+    <string name="tvRegisterText">Realice una pulsación larga sobre un botón para mostrar su menú contextual.</string>
+    <string name="buton1_menu_opt1">Opción 1</string>
+    <string name="buton1_menu_opt2">Opción 2</string>
+    <string name="buton2_menu_opt1">Opción 1</string>
+    <string name="buton2_menu_opt2">Opción 2</string>
+    <string name="buton2_menu_opt3">Opción 3</string>
+
+    <string name="btn1_top_menu">Boton 1</string>
+    <string name="btn2_top_menu">Boton 2</string>
+    <string name="btn3_top_menu">Boton 3</string>
+    <string name="btn3_1_top_menu">Boton 3_1</string>
+    <string name="btn3_2_top_menu">Boton 3_2</string>
+    <string name="btn3_3_top_menu">Boton 3_3</string>
+    <string name="btn3_4_top_menu">Boton 3_4</string>
+    <string name="btn4_top_menu">Boton 4</string>
+    <string name="btn5_top_menu">Boton 5</string>
+    <string name="btn6_top_menu">Boton 6</string>
+
+</resources>
